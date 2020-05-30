@@ -1,2 +1,6 @@
-# Case_Java
-Just another repository
+#hello-word
+Hi humans!
+
+GitHub here.I like nodes.
+
+
